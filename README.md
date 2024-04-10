@@ -48,7 +48,6 @@ Table of Content
 - run code of ```train_classifier.py``` to train model
 - to test model and read result run code of ```inference_classifier.py```
 
-- if you want use data set created by ourself go to ![drive_link](https://drive.google.com/drive/folders/14D0t8lCkxjpBVek3VM4L22YbwMm7Q0qL?usp=sharing), downoad data folder, extract folder and copy file to project file path
 
 # Features
 - Our model was able to predict the 20 text in the ASL with a prediction accuracy >90%.
