@@ -11,7 +11,7 @@ Table of Content
 - features
 
 # Info
-=> Realtime sign Language classification using Random Forest classification(RFC).
+- Realtime sign Language classification using Random Forest classification(RFC).
 
 
 ![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/image)
@@ -32,7 +32,7 @@ Table of Content
 # Setup 
 - Use comand promt to setup environment by using requirment.txt
   ``` pyton -m pip -r requirements.txt```
-This will help you in installing all the libraries required for the project.
+- This will help you in installing all the libraries required for the project.
 
 # Processes
 
