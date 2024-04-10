@@ -43,7 +43,7 @@ Table of Content
 => if you want to run project in comand line
 - open file path
 - run code of ```collect_imgs.py``` to collect images from web camera
--  if you want use data set created by ourself go to ![drive_link](https://drive.google.com/drive/folders/14D0t8lCkxjpBVek3VM4L22YbwMm7Q0qL?usp=sharing), downoad data folder, extract folder and copy file to project file path
+-  if you want use data set created by ourself go to drive_Link[drive.google.com](https://drive.google.com/drive/folders/14D0t8lCkxjpBVek3VM4L22YbwMm7Q0qL?usp=sharing))., downoad data folder, extract folder and copy file to project file path
 - to create data set run code of ```create_dataset.py```
 - run code of ```train_classifier.py``` to train model
 - to test model and read result run code of ```inference_classifier.py```
