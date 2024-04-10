@@ -12,6 +12,7 @@ Table of Content
 
 # Info
 - Realtime sign Language classification using Random Forest classification(RFC).
+- 
 
 
 ![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/image)
