@@ -21,7 +21,10 @@ Table of Content
 
 # demo
 
-![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/demo_image)
+[](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/demo_image)
+[](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/what_are_you_doing.png)
+[](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/Really.png)
+[](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/Wow%2CExpert.png)
 
 
 # technologys and tools
