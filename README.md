@@ -15,7 +15,7 @@ Table of Content
 - 
 
 
-![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/image)
+![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/image.png)
 
 
 
