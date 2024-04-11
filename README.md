@@ -21,7 +21,7 @@ Table of Content
 
 # demo
 - Image gesture .
-- ![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/Img_gest.png)
+- ![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/Img_gest.jpg)
 ===> test images 
 - what are you doin?
 ![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/what_are_you_doing.png)
