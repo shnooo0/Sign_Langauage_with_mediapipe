@@ -3,12 +3,12 @@ A sign language interpreter using live video feed from the camera
  
 
 Table of Content
-- info
-- demo
-- technologys and tools
-- setup
-- processes
-- features
+- # info
+- # demo
+- # technologys and tools
+- # setup
+- # processes
+- # features
 
 # Info
 - Realtime sign Language classification using Random Forest classification(RFC).
@@ -20,9 +20,14 @@ Table of Content
 
 
 # demo
-
+- Image gesture .
+- ![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/Img_gest.png)
+===> test images 
+- what are you doin?
 ![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/what_are_you_doing.png)
+- Really
 ![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/Really.png)
+- Expert
 ![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/Wow%2CExpert.png)
 
 
