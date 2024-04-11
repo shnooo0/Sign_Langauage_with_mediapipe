@@ -21,8 +21,10 @@ Table of Content
 
 # demo
 - Image gesture .
+ 
 - ![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/Img_gest.jpg)
-===> test images 
+===> test images
+  --------------
 - what are you doin?
 ![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/what_are_you_doing.png)
 - Really
@@ -50,7 +52,7 @@ Table of Content
 => if you want to run project in comand line
 - open file path
 - run code of ```collect_imgs.py``` to collect images from web camera
--  if you want use data set created by ourself go to [drive_Link](https://drive.google.com/drive/folders/14D0t8lCkxjpBVek3VM4L22YbwMm7Q0qL?usp=sharing) ., downoad data folder, extract folder and copy file to project file path
+-  if you want use data set created by ourself go to [drive_Link](https://drive.google.com/drive/folders/14D0t8lCkxjpBVek3VM4L22YbwMm7Q0qL?usp=sharing) ., downoad data folder, extract folder and copy all folders in data folders to project file path and paste in the data folder in this project
 - to create data set run code of ```create_dataset.py```
 - run code of ```train_classifier.py``` to train model
 - to test model and read result run code of ```inference_classifier.py```
